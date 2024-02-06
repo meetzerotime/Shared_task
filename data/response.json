@@ -1,0 +1,319 @@
+[
+    {
+      "points" : 123,
+      "section_id": 100002,
+      "section_name": "Top News Now",
+      "section_layout": "",
+      "section_type": "news",
+      "content": [
+        {
+          "topic_id": 2,
+          "title": "Caitlin Clark Record Tracker: Points, assists, rebounds and award milestones for Iowa superstar",
+          "description": "Watch as Caitlin Clark does what she does best and scores a game-winning three-point shot as time expires to lift Iowa over Michigan State. Iowa's Caitlin Clark has unquestionably already cemented",
+          "source": {
+            "title": "NBC Sports",
+            "image": "https://www.bing.com/th?id=ODF.OZFkDFz6oPRq-aLNqgYIaQ&pid=news"
+          },
+          "publishedDate": "2024-02-01T03:05:00.0000000Z",
+          "link": "https://www.msn.com/en-us/sports/other/caitlin-clark-record-tracker-points-assists-rebounds-and-award-milestones-for-iowa-superstar/ar-AA1mjYek",
+          "image": "https://www.bing.com/th?id=OVFT.zSVGilL2J5l5LhiEw1U3bi&pid=News",
+          "category": "SPORTS",
+          "newsId": "AA1mjYek"
+        },
+        {
+          "topic_id": 10,
+          "title": "Walmart makes a major store change that will delight customers",
+          "description": "As seemingly endless news about store closures seem to hang around, even in early 2024, one retailer is going in the opposite direction and actually opening more. Walmart (WMT) - Get Free Report is",
+          "source": {
+            "title": "TheStreet",
+            "image": "https://www.bing.com/th?id=ODF.dsVvdYEiGuqZDGlCaqu-ZQ&pid=news"
+          },
+          "publishedDate": "2024-01-31T21:29:00.0000000Z",
+          "link": "https://www.msn.com/en-us/money/companies/walmart-makes-a-major-store-change-that-will-delight-customers/ar-BB1hzqp5",
+          "image": "https://www.bing.com/th?id=OVFT.smD0xwzAVtaKUu6U85Xmhy&pid=News",
+          "category": "BUSINESS",
+          "newsId": "BB1hzqp5"
+        },
+        {
+          "topic_id": 14,
+          "title": "Rumors that Ukraine's top commander may be dismissed expose rifts in Ukraine top brass",
+          "description": "Rifts within Ukraine’s top leadership have burst into the open following swirling rumors that the country's top military chief will be dismissed amid reported tensions with President Volodymyr",
+          "source": {
+            "title": "The Associated Press",
+            "image": "https://www.bing.com/th?id=ODF.AlMAEy7MoWNz0OI_xSWQiw&pid=news"
+          },
+          "publishedDate": "2024-01-31T19:33:00.0000000Z",
+          "link": "https://www.msn.com/en-us/news/world/rumors-that-ukraine-s-top-commander-may-be-dismissed-expose-rifts-in-ukraine-top-brass/ar-BB1hzi5h",
+          "image": "https://www.bing.com/th?id=OVFT.XyPsFy3Rya47bv1C0mxNTi&pid=News",
+          "category": "WORLD",
+          "newsId": "BB1hzi5h"
+        }
+      ]
+    },
+    {
+      "points" : 123,
+      "section_id": 100004,
+      "section_name": "Play Today!",
+      "section_layout": "",
+      "section_type": "games",
+      "content": [
+        {
+          "id": 1,
+          "title": "Wordle",
+          "category": "Puzzle",
+          "url": "https://www.nytimes.com/games/wordle/index.html",
+          "order": 3,
+          "script": "",
+          "status": "Active",
+          "goal": "",
+          "instruction": null,
+          "isMuted": false,
+          "createdAt": "2024-01-16T09:43:22.264Z",
+          "updatedAt": "2024-01-16T09:43:22.264Z"
+        },
+        {
+          "id": 2,
+          "title": "Sudoku",
+          "category": "Puzzle",
+          "url": "https://www.nytimes.com/games/wordle/index.html",
+          "order": 1,
+          "script": "",
+          "status": "Active",
+          "goal": "",
+          "instruction": null,
+          "isMuted": false,
+          "createdAt": "2024-01-16T09:43:41.847Z",
+          "updatedAt": "2024-01-16T09:43:41.847Z"
+        },
+        {
+          "id": 3,
+          "title": "XmaSudoku",
+          "category": "SemiPuzzle",
+          "url": "https://www.nytimes.com/games/wordle/index.html",
+          "order": 2,
+          "script": "",
+          "status": "Active",
+          "goal": "",
+          "instruction": null,
+          "isMuted": false
+        },
+        {
+          "id": 4,
+          "title": "Bubble Blast",
+          "category": "Arcade",
+          "url": "https://www.nytimes.com/games/wordle/index.html",
+          "order": 4,
+          "script": "",
+          "status": "Active",
+          "goal": "",
+          "instruction": null,
+          "isMuted": false
+        }
+      ]
+    },
+    {
+      "points" : 123,
+      "section_id": 100001,
+      "section_layout": "",
+      "section_type": "Quiz",
+      "content": [
+        {
+          "id": 1,
+          "title": "World Landmarks Quiz",
+          "social_proof_count": 4571,
+          "content_type": "Quiz"
+        }
+      ]
+    },
+    {
+        "points": 123,
+        "section_id": 6,
+        "section_name": "History Knowledge",
+        "section_layout": "thumbnail",
+        "section_type": "Flight",
+        "content": [
+          {
+            "id": 27,
+            "title": "A Duke Murdered in the Streets of Paris",
+            "description": "When King Charles VI of France suffered from severe mental illness, a council ruled in his place. And on that council was his brother, Louis of Orleans, and his uncle, Philip of Burgundy. As they vied for power, their rivalry would turn bloody, and ultimately, set France on the path to Civil War.",
+            "content_type": "Audio",
+            "content_type_title": "Listening",
+            "source_id": 8,
+            "format_id": 1,
+            "section_id": 6,
+            "source": "History",
+            "format": "Listening"
+          },
+          {
+            "id": 25,
+            "title": "Building Wonders - the Colosseum",
+            "description": "Learn how the ancient Romans built the Colosseum.",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=vhYRIHDPH9Q",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 6,
+            "source": "Youtube",
+            "format": "Watching"
+          },
+          {
+            "id": 28,
+            "title": "The Entire History of the Maya Documentary",
+            "description": "Learn about the history of the Maya civilization with this in-depth documentary.",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=hNbuF1NWXKo",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 6,
+            "source": "Youtube",
+            "format": "Watching"
+          }
+        ]
+      },
+      {
+        "points" : 123,
+        "section_id": 3,
+        "section_name": "Vegan Cooking",
+        "section_layout": "thumbnail",
+        "section_type": "Flight",
+        "content": [
+          {
+            "id": 43,
+            "title": "Elevate Your Plate: The Ultimate Vegan Guide",
+            "description": "Introduction reading from 1st URL download the text up to the title \"Look for new products\" + Download shopping list",
+            "content_type": "Article",
+            "content_type_title": "Self-practicing",
+            "url": "https://rainbowplantlife.com/vegan-grocery-list/",
+            "source_id": 20,
+            "format_id": 2,
+            "section_id": 3,
+            "source": "Rainbow Plant Life",
+            "format": "Reading"
+          },
+          {
+            "id": 37,
+            "title": "Unveiling the Secrets of Aging Gracefully thanks ",
+            "description": "This video features five inspiring seniors who are all raw vegans in their 70s, 80s and 90s, and they look younger than their actual age. They take no pharmaceutical meds and have more energy and mental clarity than people half their age.",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=Mkl4KRv5quM\n\n\n",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 3,
+            "source": "Youtube",
+            "format": "Watching"
+          },
+          {
+            "id": 41,
+            "title": "Prepare Vegan Instant Pot Meals",
+            "description": "Try to make this 3 Vegan Instant Pot Meals",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=AnL6B8GbI9g",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 3,
+            "source": "Youtube",
+            "format": "Watching"
+          }
+        ]
+      },
+      {
+        "points" : 123,
+        "section_id": 4,
+        "section_name": "Easy Week-Night Meals",
+        "section_layout": "full_width",
+        "section_type": "Flight",
+        "content": [
+          {
+            "id": 14,
+            "title": "Baked Mac and Cheese",
+            "description": "Baked Mac and Cheese",
+            "content_type": "Audio",
+            "content_type_title": "Listening",
+            "url": "https://feed-audio.s3.amazonaws.com/107.mp3",
+            "source_id": 16,
+            "format_id": 1,
+            "section_id": 4,
+            "source": "iHeart",
+            "format": "Listening"
+          },
+          {
+            "id": 10,
+            "title": "Seared Gnocchi with Roasted Arugula ",
+            "description": "Seared Gnocchi with Roasted Arugula ",
+            "content_type": "Article",
+            "content_type_title": "Reading",
+            "url": "https://www.foodandwine.com/recipes/seared-gnocchi-roasted-arugula",
+            "source_id": 12,
+            "format_id": 2,
+            "section_id": 4,
+            "source": "Food & Wine",
+            "format": "Reading"
+          },
+          {
+            "id": 8,
+            "title": "One-Pot Zuppa Toscana",
+            "description": "One-Pot Zuppa Toscana",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=-Sp32bW7Q4A",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 4,
+            "source": "Youtube",
+            "format": "Watching"
+          }
+        ]
+      },
+      {
+        "points": 1040,
+        "section_id": 10,
+        "section_name": "Transforming The Money Mindset",
+        "section_layout": "full_width",
+        "section_type": "Flight",
+        "content": [
+          {
+            "id": 57,
+            "title": "Overcoming Your Scarcity Brain",
+            "description": "Our brains are hardwired to relentlessly believe that we don’t have enough. At least in our modern age, we have enough food, shelter, and clothing on hand that the vast majority of folks haven’t felt the true impacts of real scarcity. So why spend an episode talking about a shortage of resources? Well it’s because problems arise when our minds are programmed to operate in a world of scarcity, but in reality we’re living in an age of abundance.",
+            "content_type": "Audio",
+            "content_type_title": "Listening",
+            "url": "https://www.iheart.com/podcast/1119-how-to-money-30166328/episode/overcoming-your-scarcity-brain-w-michael-141626294/",
+            "source_id": 16,
+            "format_id": 1,
+            "section_id": 10,
+            "source": "iHeart",
+            "format": "Listening"
+          },
+          {
+            "id": 56,
+            "title": "How to Get Out of Debt",
+            "description": "Getting out of debt can feel overwhelming. The first step is to organize yourself so that you can plan out exactly how to get yourself to financial stability.",
+            "content_type": "Video",
+            "content_type_title": "Self-practicing",
+            "url": "https://www.youtube.com/watch?v=CHiOBzqcMV8",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 10,
+            "source": "Youtube",
+            "format": "Watching"
+          },
+          {
+            "id": 55,
+            "title": "What's Really Hindering Your Financial Freedom?",
+            "description": "Thanks to technology, we have more access than ever before to financial literacy information. Yet anxiety, worry, and concern over financial direction persists; it doesn’t quite add up. Could it be that we’re going about the pivotal first steps of true wealth creation all wrong?",
+            "content_type": "Video",
+            "content_type_title": "Watching",
+            "url": "https://www.youtube.com/watch?v=WBUO8uPUEBc",
+            "source_id": 6,
+            "format_id": 3,
+            "section_id": 10,
+            "source": "Youtube",
+            "format": "Watching"
+          }
+        ]
+      }
+]

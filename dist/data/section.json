@@ -1,0 +1,42 @@
+[
+    {
+        "id": 10,
+        "title": "Transforming The Money Mindset",
+        "topic_id": 5
+    },
+    {
+        "id": 9,
+        "title": "Health Issues in Older Adults",
+        "topic_id": 4
+    },
+    {
+        "id": 8,
+        "title": "Accessible Travel",
+        "topic_id": 6
+    },
+    {
+        "id": 7,
+        "title": "Morning Routine",
+        "topic_id": 4
+    },
+    {
+        "id": 6,
+        "title": "History Knowledge",
+        "topic_id": 7
+    },
+    {
+        "id": 5,
+        "title": "Cryptocurrency",
+        "topic_id": 5
+    },
+    {
+        "id": 4,
+        "title": "Easy Week-Night Meals",
+        "topic_id": 3
+    },
+    {
+        "id": 3,
+        "title": "Vegan Cooking",
+        "topic_id": 2
+    }
+]
